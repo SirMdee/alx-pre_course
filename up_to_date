@@ -1,0 +1,13 @@
+# Update README.md in the main branch:
+1. Open your terminal.
+2. Navigate to the directory of your local Git repository.
+3. Pull the latest changes from the main branch (assuming you're currently on the main branch):
+   ```git pull origin main```
+4. Edit the README.md file with the changes you want to make.
+5. Save the changes.
+6. Add the changes to Git:
+   ```git add README.md```
+7. Commit the changes with an appropriate commit message:
+   ```git commit -m 'Update README.md'```
+8. Push the changes to the main branch on GitHub:
+   ```git push origin main```
